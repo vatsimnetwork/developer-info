@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.vatsim.net/sites/default/files/vatsim_0.png" width="400"></p>
+<p align="center"><img src="https://i.imgur.com/i0qDnBQ.png" width="500"></p>
 
 ## VATSIM Discussions
 
