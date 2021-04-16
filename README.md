@@ -1,12 +1,15 @@
 <p align="center"><img src="https://i.imgur.com/i0qDnBQ.png" width="500"></p>
 
-## VATSIM Discussions
+## VATSIM Developer Information
 
-Welcome to the VATSIM Discussions Repository. This repository has been made so that
-developers can open new discussions as an alternative to the forum.
+Welcome to the VATSIM Developer Information. This repository has been made so that developers can open new discussions as an alternative to the forum, and also access wiki information on our services
 
 Discussions can be opened for making suggestions, reporting issues/bugs, and asking
 questions.
+
+## Wiki
+
+The Wiki is available [here](https://github.com/vatsimnetwork/developer-info/wiki) or by clicking the Wiki tab in the navigation bar above
 
 ## How to create a discussion
 
