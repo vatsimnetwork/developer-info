@@ -3,7 +3,7 @@ This file is provided as a central resource for links to open-sourced/useable to
 To get your tool/source added, please open a PR to this file
 
 ## oAuth2 implementations
-* VATSIM-oAuth2-Django [https://github.com/twentysecondproject/](https://github.com/twentysecondproject/VATSIM-oAuth2-Django) (Python, Django)
+* VATSIM-oAuth2-Django [https://github.com/twentysecondproject/VATSIM-oAuth2-Django](https://github.com/twentysecondproject/VATSIM-oAuth2-Django) (Python, Django)
 
 ## Tools
 * Vatsimphp - [https://github.com/skymeyer/Vatsimphp](https://github.com/skymeyer/Vatsimphp) (PHP)
